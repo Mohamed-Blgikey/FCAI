@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FCAI", "FCAI\FCAI.csproj", "{4C08461B-CA26-4684-B00E-6926668F31D3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FCAI.BL", "FCAI.BL\FCAI.BL.csproj", "{51B31301-905B-42EB-8AFD-0BEA5A4EB319}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FCAI.DAL", "FCAI.DAL\FCAI.DAL.csproj", "{0B640AB9-C044-4E44-9D26-ECE64A1E66EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C08461B-CA26-4684-B00E-6926668F31D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C08461B-CA26-4684-B00E-6926668F31D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C08461B-CA26-4684-B00E-6926668F31D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C08461B-CA26-4684-B00E-6926668F31D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51B31301-905B-42EB-8AFD-0BEA5A4EB319}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51B31301-905B-42EB-8AFD-0BEA5A4EB319}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51B31301-905B-42EB-8AFD-0BEA5A4EB319}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51B31301-905B-42EB-8AFD-0BEA5A4EB319}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B640AB9-C044-4E44-9D26-ECE64A1E66EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B640AB9-C044-4E44-9D26-ECE64A1E66EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B640AB9-C044-4E44-9D26-ECE64A1E66EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B640AB9-C044-4E44-9D26-ECE64A1E66EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D01BFCC-67BE-48B8-A7E8-BDE41DBAC3B0}
+	EndGlobalSection
+EndGlobal

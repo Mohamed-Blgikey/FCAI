@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Blgikey\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Blgikey\\.nuget\\packages"
+    ]
+  }
+}

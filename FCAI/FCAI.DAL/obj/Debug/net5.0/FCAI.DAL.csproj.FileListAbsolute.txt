@@ -1,0 +1,15 @@
+D:\Route\FCAI\FCAI.DAL\bin\Debug\net5.0\FCAI.DAL.deps.json
+D:\Route\FCAI\FCAI.DAL\bin\Debug\net5.0\FCAI.DAL.dll
+D:\Route\FCAI\FCAI.DAL\bin\Debug\net5.0\ref\FCAI.DAL.dll
+D:\Route\FCAI\FCAI.DAL\bin\Debug\net5.0\FCAI.DAL.pdb
+D:\Route\FCAI\FCAI.DAL\obj\Debug\net5.0\FCAI.DAL.csproj.AssemblyReference.cache
+D:\Route\FCAI\FCAI.DAL\obj\Debug\net5.0\FCAI.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Route\FCAI\FCAI.DAL\obj\Debug\net5.0\FCAI.DAL.AssemblyInfoInputs.cache
+D:\Route\FCAI\FCAI.DAL\obj\Debug\net5.0\FCAI.DAL.AssemblyInfo.cs
+D:\Route\FCAI\FCAI.DAL\obj\Debug\net5.0\FCAI.DAL.csproj.CoreCompileInputs.cache
+D:\Route\FCAI\FCAI.DAL\obj\Debug\net5.0\FCAI.DAL.dll
+D:\Route\FCAI\FCAI.DAL\obj\Debug\net5.0\ref\FCAI.DAL.dll
+D:\Route\FCAI\FCAI.DAL\obj\Debug\net5.0\FCAI.DAL.pdb
+D:\Route\FCAI\FCAI.DAL\bin\Debug\net5.0\FCAI.DAL.runtimeconfig.json
+D:\Route\FCAI\FCAI.DAL\bin\Debug\net5.0\FCAI.DAL.runtimeconfig.dev.json
+D:\Route\FCAI\FCAI.DAL\obj\Debug\net5.0\FCAI.DAL.genruntimeconfig.cache

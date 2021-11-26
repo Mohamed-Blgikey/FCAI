@@ -1,0 +1,136 @@
+﻿@model IEnumerable<FCAI.BL.Model.InstractorVM>
+@inject FCAI.BL.Interface.IInstractorRep InstRep
+@{
+    ViewData["Title"] = SharedLocalizer["Instractor"];
+    ViewBag.inst = "active";
+}
+
+@section DataTableCss{
+    <link href="~/plugins/datatables-bs4/css/dataTables.bootstrap4.css" rel="stylesheet" />
+    <link href="~/plugins/datatables-responsive/css/responsive.bootstrap4.css" rel="stylesheet" />
+    <link href="~/plugins/datatables-buttons/css/buttons.bootstrap4.css" rel="stylesheet" />
+}
+<div class="content-header">
+    <div class="container-fluid">
+        <div class="row mb-2">
+            <div class="col-sm-6">
+                <h1 class="m-0">@ViewData["Title"]</h1>
+            </div><!-- /.col -->
+            <div class="col-sm-6">
+                <ol class="breadcrumb float-sm-right">
+                    <li class="breadcrumb-item"><a asp-controller="Home" asp-action="Index">@SharedLocalizer["Home"]</a></li>
+                    <li class="breadcrumb-item active">@SharedLocalizer["Instractor"]</li>
+                </ol>
+            </div><!-- /.col -->
+        </div><!-- /.row -->
+    </div><!-- /.container-fluid -->
+</div>
+<!-- Main content -->
+<section class="content">
+    <div class="container-fluid">
+
+        @if (signInManger.IsSignedIn(User) && (User.IsInRole("admin") || User.IsInRole("super admin")))
+        {
+            <a asp-controller="Instractor" asp-action="Create" class="btn btn-outline-info my-3">@SharedLocalizer["Add Instractor"]</a>
+        }
+        <div class="card">
+            <div class="card-header">
+                <h3 class="card-title">@SharedLocalizer["Data"]</h3>
+            </div>
+
+            <!-- /.card-header -->
+            <div class="card-body">
+                <table id="example1" class="table table-hover table-bordered table-striped">
+                    <thead>
+                        <tr>
+                            <th>@SharedLocalizer["ID"]</th>
+                            <th>@SharedLocalizer["Name"]</th>
+                            <th>@SharedLocalizer["Phone"]</th>
+                            <th>@SharedLocalizer["Email"]</th>
+                            <th>@SharedLocalizer["Salary"]</th>
+                            <th>@SharedLocalizer["Hire"]</th>
+                            <th>@SharedLocalizer["Department"]</th>
+                            <th>@SharedLocalizer["Details"]</th>
+                            @if (signInManger.IsSignedIn(User) && (User.IsInRole("admin") || User.IsInRole("super admin")))
+                            {
+                                <th>@SharedLocalizer["Edit"]</th>
+                                <th>@SharedLocalizer["Delete"]</th>
+                            }
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model)
+                        {
+                        <tr>
+                            <td>@item.ID</td>
+                            <td>@item.Name</td>
+                            <td>@item.Phone</td>
+                            <td>@item.Email</td>
+                            <td>@item.Salary</td>
+                            <td>@item.HireDate</td>
+                            @if (item.DeptId == null)
+                            {
+                                <td>N / A</td>
+                            }
+                            @if (item.DeptId != null)
+                            {
+                                <td>@item.department.Name</td>
+                            }
+                            <td><a asp-route-id="@item.ID" asp-controller="Instractor" asp-action="Details" class="btn btn-outline-info">@SharedLocalizer["Details"]</a></td>
+                            @if (signInManger.IsSignedIn(User) && (User.IsInRole("admin") || User.IsInRole("super admin")))
+                            {
+                                <td><a asp-route-id="@item.ID" asp-controller="Instractor" asp-action="Edit" class="btn btn-outline-warning">@SharedLocalizer["Edit"]</a></td>
+                                <td><a asp-route-id="@item.ID" asp-controller="Instractor" asp-action="Delete" class="btn btn-outline-danger">@SharedLocalizer["Delete"]</a></td>
+                            }
+                        </tr>
+                        }
+                    </tbody>
+                    <tfoot>
+                        <tr>
+                            <th>@SharedLocalizer["ID"]</th>
+                            <th>@SharedLocalizer["Name"]</th>
+                            <th>@SharedLocalizer["Phone"]</th>
+                            <th>@SharedLocalizer["Email"]</th>
+                            <th>@SharedLocalizer["Salary"]</th>
+                            <th>@SharedLocalizer["Hire"]</th>
+                            <th>@SharedLocalizer["Department"]</th>
+                            <th>@SharedLocalizer["Details"]</th>
+                            @if (signInManger.IsSignedIn(User) && (User.IsInRole("admin") || User.IsInRole("super admin")))
+                            {
+                                <th>@SharedLocalizer["Edit"]</th>
+                                <th>@SharedLocalizer["Delete"]</th>
+                            }
+                        </tr>
+                    </tfoot>
+                </table>
+            </div>
+            <!-- /.card-body -->
+        </div>
+        <!-- /.card -->
+    </div><!-- /.container-fluid -->
+</section>
+<!-- /.content -->
+
+@section DataTableJs{
+    <script src="~/plugins/datatables/jquery.dataTables.js"></script>
+    <script src="~/plugins/datatables-bs4/js/dataTables.bootstrap4.js"></script>
+    <script src="~/plugins/datatables-responsive/js/dataTables.responsive.js"></script>
+    <script src="~/plugins/datatables-responsive/js/responsive.bootstrap4.js"></script>
+    <script src="~/plugins/datatables-buttons/js/dataTables.buttons.js"></script>
+    <script src="~/plugins/datatables-buttons/js/buttons.bootstrap4.js"></script>
+    <script src="~/plugins/jszip/jszip.js"></script>
+    <script src="~/plugins/pdfmake/pdfmake.js"></script>
+    <script src="~/plugins/pdfmake/vfs_fonts.js"></script>
+    <script src="~/plugins/datatables-buttons/js/buttons.html5.js"></script>
+    <script src="~/plugins/datatables-buttons/js/buttons.print.js"></script>
+    <script src="~/plugins/datatables-buttons/js/buttons.colVis.js"></script>
+    <script>
+        $(function () {
+            $("#example1").DataTable({
+                "responsive": true, "lengthChange": true, "autoWidth": false,
+                "buttons": ["copy", "csv", "excel", "pdf", "print", "colvis"]
+            }).buttons().container().appendTo('#example1_wrapper .col-md-6:eq(0)');
+
+        });
+    </script>
+}

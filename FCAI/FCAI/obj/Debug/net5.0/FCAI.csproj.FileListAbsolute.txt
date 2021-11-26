@@ -1,0 +1,403 @@
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\FCAI.exe
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\FCAI.deps.json
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\FCAI.runtimeconfig.json
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\FCAI.runtimeconfig.dev.json
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\FCAI.dll
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\ref\FCAI.dll
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\FCAI.pdb
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\FCAI.Views.dll
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\FCAI.Views.pdb
+D:\Route\FCAI\FCAI\obj\Debug\net5.0\FCAI.csproj.AssemblyReference.cache
+D:\Route\FCAI\FCAI\obj\Debug\net5.0\FCAI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Route\FCAI\FCAI\obj\Debug\net5.0\FCAI.AssemblyInfoInputs.cache
+D:\Route\FCAI\FCAI\obj\Debug\net5.0\FCAI.AssemblyInfo.cs
+D:\Route\FCAI\FCAI\obj\Debug\net5.0\FCAI.csproj.CoreCompileInputs.cache
+D:\Route\FCAI\FCAI\obj\Debug\net5.0\FCAI.MvcApplicationPartsAssemblyInfo.cache
+D:\Route\FCAI\FCAI\obj\Debug\net5.0\FCAI.RazorAssemblyInfo.cache
+D:\Route\FCAI\FCAI\obj\Debug\net5.0\FCAI.RazorAssemblyInfo.cs
+D:\Route\FCAI\FCAI\obj\Debug\net5.0\staticwebassets\FCAI.StaticWebAssets.Manifest.cache
+D:\Route\FCAI\FCAI\obj\Debug\net5.0\staticwebassets\FCAI.StaticWebAssets.xml
+D:\Route\FCAI\FCAI\obj\Debug\net5.0\scopedcss\bundle\FCAI.styles.css
+D:\Route\FCAI\FCAI\obj\Debug\net5.0\FCAI.TagHelpers.input.cache
+D:\Route\FCAI\FCAI\obj\Debug\net5.0\FCAI.TagHelpers.output.cache
+D:\Route\FCAI\FCAI\obj\Debug\net5.0\FCAI.RazorCoreGenerate.cache
+D:\Route\FCAI\FCAI\obj\Debug\net5.0\Razor\Views\Shared\Layout.cshtml.g.cs
+D:\Route\FCAI\FCAI\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Route\FCAI\FCAI\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Route\FCAI\FCAI\obj\Debug\net5.0\FCAI.RazorTargetAssemblyInfo.cache
+D:\Route\FCAI\FCAI\obj\Debug\net5.0\FCAI.RazorTargetAssemblyInfo.cs
+D:\Route\FCAI\FCAI\obj\Debug\net5.0\FCAI.Views.pdb
+D:\Route\FCAI\FCAI\obj\Debug\net5.0\FCAI.dll
+D:\Route\FCAI\FCAI\obj\Debug\net5.0\ref\FCAI.dll
+D:\Route\FCAI\FCAI\obj\Debug\net5.0\FCAI.pdb
+D:\Route\FCAI\FCAI\obj\Debug\net5.0\FCAI.genruntimeconfig.cache
+D:\Route\FCAI\FCAI\obj\Debug\net5.0\FCAI.csproj.CopyComplete
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\Humanizer.dll
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Route\FCAI\FCAI\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\FCAI.BL.dll
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\FCAI.DAL.dll
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\FCAI.BL.pdb
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\FCAI.DAL.pdb
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\appsettings.json
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\AutoMapper.dll
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Route\FCAI\FCAI\obj\Debug\net5.0\Razor\Views\Department\Index.cshtml.g.cs
+D:\Route\FCAI\FCAI\obj\Debug\net5.0\Razor\Views\Department\Create.cshtml.g.cs
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\libman.json
+D:\Route\FCAI\FCAI\obj\Debug\net5.0\Razor\Views\Department\Edit.cshtml.g.cs
+D:\Route\FCAI\FCAI\obj\Debug\net5.0\Razor\Views\Department\Delete.cshtml.g.cs
+D:\Route\FCAI\FCAI\obj\Debug\net5.0\Razor\Views\Department\Details.cshtml.g.cs
+D:\Route\FCAI\FCAI\obj\Debug\net5.0\FCAI.Language.Resource.resources
+D:\Route\FCAI\FCAI\obj\Debug\net5.0\FCAI.csproj.GenerateResource.cache
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\ar-EG\FCAI.resources.dll
+D:\Route\FCAI\FCAI\obj\Debug\net5.0\FCAI.Language.Resource.ar-EG.resources
+D:\Route\FCAI\FCAI\obj\Debug\net5.0\ar-EG\FCAI.resources.dll
+D:\Route\FCAI\FCAI\obj\Debug\net5.0\Razor\Views\Student\Index.cshtml.g.cs
+D:\Route\FCAI\FCAI\obj\Debug\net5.0\Razor\Views\Student\Create.cshtml.g.cs
+D:\Route\FCAI\FCAI\obj\Debug\net5.0\Razor\Views\Student\Edit.cshtml.g.cs
+D:\Route\FCAI\FCAI\obj\Debug\net5.0\Razor\Views\Student\Delete.cshtml.g.cs
+D:\Route\FCAI\FCAI\obj\Debug\net5.0\Razor\Views\Student\Details.cshtml.g.cs
+D:\Route\FCAI\FCAI\obj\Debug\net5.0\Razor\Views\Instractor\Index.cshtml.g.cs
+D:\Route\FCAI\FCAI\obj\Debug\net5.0\Razor\Views\Instractor\Create.cshtml.g.cs
+D:\Route\FCAI\FCAI\obj\Debug\net5.0\Razor\Views\Instractor\Delete.cshtml.g.cs
+D:\Route\FCAI\FCAI\obj\Debug\net5.0\Razor\Views\Instractor\Details.cshtml.g.cs
+D:\Route\FCAI\FCAI\obj\Debug\net5.0\Razor\Views\Instractor\Edit.cshtml.g.cs
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\Route\FCAI\FCAI\obj\Debug\net5.0\Razor\Views\Course\Index.cshtml.g.cs
+D:\Route\FCAI\FCAI\obj\Debug\net5.0\Razor\Views\Course\Create.cshtml.g.cs
+D:\Route\FCAI\FCAI\obj\Debug\net5.0\Razor\Views\Course\Edit.cshtml.g.cs
+D:\Route\FCAI\FCAI\obj\Debug\net5.0\Razor\Views\Course\Delete.cshtml.g.cs
+D:\Route\FCAI\FCAI\obj\Debug\net5.0\Razor\Views\Course\Details.cshtml.g.cs
+D:\Route\FCAI\FCAI\obj\Debug\net5.0\Razor\Views\Topic\Index.cshtml.g.cs
+D:\Route\FCAI\FCAI\obj\Debug\net5.0\Razor\Views\Topic\Create.cshtml.g.cs
+D:\Route\FCAI\FCAI\obj\Debug\net5.0\Razor\Views\Topic\Edit.cshtml.g.cs
+D:\Route\FCAI\FCAI\obj\Debug\net5.0\Razor\Views\Topic\Delete.cshtml.g.cs
+D:\Route\FCAI\FCAI\obj\Debug\net5.0\Razor\Views\Topic\Details.cshtml.g.cs
+D:\Route\FCAI\FCAI\obj\Debug\net5.0\Razor\Views\CourseInst\AddCourse.cshtml.g.cs
+D:\Route\FCAI\FCAI\obj\Debug\net5.0\Razor\Views\CourseInst\Index.cshtml.g.cs
+D:\Route\FCAI\FCAI\obj\Debug\net5.0\Razor\Views\CourseInst\Edit.cshtml.g.cs
+D:\Route\FCAI\FCAI\obj\Debug\net5.0\Razor\Views\CourseInst\Delete.cshtml.g.cs
+D:\Route\FCAI\FCAI\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+D:\Route\FCAI\FCAI\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+D:\Route\FCAI\FCAI\obj\Debug\net5.0\Razor\Views\Account\ForgetPass.cshtml.g.cs
+D:\Route\FCAI\FCAI\obj\Debug\net5.0\Razor\Views\Account\ResetPass.cshtml.g.cs
+D:\Route\FCAI\FCAI\obj\Debug\net5.0\Razor\Views\Account\ConfirmForgetPass.cshtml.g.cs
+D:\Route\FCAI\FCAI\obj\Debug\net5.0\Razor\Views\Account\ConfirmResetPass.cshtml.g.cs
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\Route\FCAI\FCAI\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Route\FCAI\FCAI\obj\Debug\net5.0\Razor\Views\Mail\Index.cshtml.g.cs
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\appsettings.json
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\libman.json
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\FCAI.exe
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\FCAI.deps.json
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\FCAI.runtimeconfig.json
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\FCAI.runtimeconfig.dev.json
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\FCAI.dll
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\ref\FCAI.dll
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\FCAI.pdb
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\ar-EG\FCAI.resources.dll
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\FCAI.Views.dll
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\FCAI.Views.pdb
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\AutoMapper.dll
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\Humanizer.dll
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\System.Composition.Convention.dll
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\System.Composition.Hosting.dll
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\System.Composition.Runtime.dll
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\System.Composition.TypedParts.dll
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\FCAI.BL.dll
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\FCAI.DAL.dll
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\FCAI.BL.pdb
+E:\ASP Project\FCAI\FCAI\bin\Debug\net5.0\FCAI.DAL.pdb
+E:\ASP Project\FCAI\FCAI\obj\Debug\net5.0\FCAI.csproj.AssemblyReference.cache
+E:\ASP Project\FCAI\FCAI\obj\Debug\net5.0\FCAI.Language.Resource.resources
+E:\ASP Project\FCAI\FCAI\obj\Debug\net5.0\FCAI.Language.Resource.ar-EG.resources
+E:\ASP Project\FCAI\FCAI\obj\Debug\net5.0\FCAI.csproj.GenerateResource.cache
+E:\ASP Project\FCAI\FCAI\obj\Debug\net5.0\FCAI.GeneratedMSBuildEditorConfig.editorconfig
+E:\ASP Project\FCAI\FCAI\obj\Debug\net5.0\FCAI.AssemblyInfoInputs.cache
+E:\ASP Project\FCAI\FCAI\obj\Debug\net5.0\FCAI.AssemblyInfo.cs
+E:\ASP Project\FCAI\FCAI\obj\Debug\net5.0\FCAI.csproj.CoreCompileInputs.cache
+E:\ASP Project\FCAI\FCAI\obj\Debug\net5.0\FCAI.MvcApplicationPartsAssemblyInfo.cache
+E:\ASP Project\FCAI\FCAI\obj\Debug\net5.0\FCAI.RazorAssemblyInfo.cache
+E:\ASP Project\FCAI\FCAI\obj\Debug\net5.0\FCAI.RazorAssemblyInfo.cs
+E:\ASP Project\FCAI\FCAI\obj\Debug\net5.0\ar-EG\FCAI.resources.dll
+E:\ASP Project\FCAI\FCAI\obj\Debug\net5.0\staticwebassets\FCAI.StaticWebAssets.Manifest.cache
+E:\ASP Project\FCAI\FCAI\obj\Debug\net5.0\staticwebassets\FCAI.StaticWebAssets.xml
+E:\ASP Project\FCAI\FCAI\obj\Debug\net5.0\scopedcss\bundle\FCAI.styles.css
+E:\ASP Project\FCAI\FCAI\obj\Debug\net5.0\FCAI.TagHelpers.input.cache
+E:\ASP Project\FCAI\FCAI\obj\Debug\net5.0\FCAI.TagHelpers.output.cache
+E:\ASP Project\FCAI\FCAI\obj\Debug\net5.0\FCAI.RazorCoreGenerate.cache
+E:\ASP Project\FCAI\FCAI\obj\Debug\net5.0\Razor\Views\Account\ConfirmForgetPass.cshtml.g.cs
+E:\ASP Project\FCAI\FCAI\obj\Debug\net5.0\Razor\Views\Account\ConfirmResetPass.cshtml.g.cs
+E:\ASP Project\FCAI\FCAI\obj\Debug\net5.0\Razor\Views\Account\ForgetPass.cshtml.g.cs
+E:\ASP Project\FCAI\FCAI\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+E:\ASP Project\FCAI\FCAI\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+E:\ASP Project\FCAI\FCAI\obj\Debug\net5.0\Razor\Views\Account\ResetPass.cshtml.g.cs
+E:\ASP Project\FCAI\FCAI\obj\Debug\net5.0\Razor\Views\CourseInst\AddCourse.cshtml.g.cs
+E:\ASP Project\FCAI\FCAI\obj\Debug\net5.0\Razor\Views\CourseInst\Delete.cshtml.g.cs
+E:\ASP Project\FCAI\FCAI\obj\Debug\net5.0\Razor\Views\CourseInst\Edit.cshtml.g.cs
+E:\ASP Project\FCAI\FCAI\obj\Debug\net5.0\Razor\Views\CourseInst\Index.cshtml.g.cs
+E:\ASP Project\FCAI\FCAI\obj\Debug\net5.0\Razor\Views\Course\Create.cshtml.g.cs
+E:\ASP Project\FCAI\FCAI\obj\Debug\net5.0\Razor\Views\Course\Delete.cshtml.g.cs
+E:\ASP Project\FCAI\FCAI\obj\Debug\net5.0\Razor\Views\Course\Details.cshtml.g.cs
+E:\ASP Project\FCAI\FCAI\obj\Debug\net5.0\Razor\Views\Course\Edit.cshtml.g.cs
+E:\ASP Project\FCAI\FCAI\obj\Debug\net5.0\Razor\Views\Course\Index.cshtml.g.cs
+E:\ASP Project\FCAI\FCAI\obj\Debug\net5.0\Razor\Views\Department\Create.cshtml.g.cs
+E:\ASP Project\FCAI\FCAI\obj\Debug\net5.0\Razor\Views\Department\Delete.cshtml.g.cs
+E:\ASP Project\FCAI\FCAI\obj\Debug\net5.0\Razor\Views\Department\Details.cshtml.g.cs
+E:\ASP Project\FCAI\FCAI\obj\Debug\net5.0\Razor\Views\Department\Edit.cshtml.g.cs
+E:\ASP Project\FCAI\FCAI\obj\Debug\net5.0\Razor\Views\Department\Index.cshtml.g.cs
+E:\ASP Project\FCAI\FCAI\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+E:\ASP Project\FCAI\FCAI\obj\Debug\net5.0\Razor\Views\Instractor\Create.cshtml.g.cs
+E:\ASP Project\FCAI\FCAI\obj\Debug\net5.0\Razor\Views\Instractor\Delete.cshtml.g.cs
+E:\ASP Project\FCAI\FCAI\obj\Debug\net5.0\Razor\Views\Instractor\Details.cshtml.g.cs
+E:\ASP Project\FCAI\FCAI\obj\Debug\net5.0\Razor\Views\Instractor\Edit.cshtml.g.cs
+E:\ASP Project\FCAI\FCAI\obj\Debug\net5.0\Razor\Views\Instractor\Index.cshtml.g.cs
+E:\ASP Project\FCAI\FCAI\obj\Debug\net5.0\Razor\Views\Shared\Layout.cshtml.g.cs
+E:\ASP Project\FCAI\FCAI\obj\Debug\net5.0\Razor\Views\Student\Create.cshtml.g.cs
+E:\ASP Project\FCAI\FCAI\obj\Debug\net5.0\Razor\Views\Student\Delete.cshtml.g.cs
+E:\ASP Project\FCAI\FCAI\obj\Debug\net5.0\Razor\Views\Student\Details.cshtml.g.cs
+E:\ASP Project\FCAI\FCAI\obj\Debug\net5.0\Razor\Views\Student\Edit.cshtml.g.cs
+E:\ASP Project\FCAI\FCAI\obj\Debug\net5.0\Razor\Views\Student\Index.cshtml.g.cs
+E:\ASP Project\FCAI\FCAI\obj\Debug\net5.0\Razor\Views\Topic\Create.cshtml.g.cs
+E:\ASP Project\FCAI\FCAI\obj\Debug\net5.0\Razor\Views\Topic\Delete.cshtml.g.cs
+E:\ASP Project\FCAI\FCAI\obj\Debug\net5.0\Razor\Views\Topic\Details.cshtml.g.cs
+E:\ASP Project\FCAI\FCAI\obj\Debug\net5.0\Razor\Views\Topic\Edit.cshtml.g.cs
+E:\ASP Project\FCAI\FCAI\obj\Debug\net5.0\Razor\Views\Topic\Index.cshtml.g.cs
+E:\ASP Project\FCAI\FCAI\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\ASP Project\FCAI\FCAI\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\ASP Project\FCAI\FCAI\obj\Debug\net5.0\FCAI.RazorTargetAssemblyInfo.cache
+E:\ASP Project\FCAI\FCAI\obj\Debug\net5.0\FCAI.RazorTargetAssemblyInfo.cs
+E:\ASP Project\FCAI\FCAI\obj\Debug\net5.0\FCAI.Views.pdb
+E:\ASP Project\FCAI\FCAI\obj\Debug\net5.0\FCAI.csproj.CopyComplete
+E:\ASP Project\FCAI\FCAI\obj\Debug\net5.0\FCAI.dll
+E:\ASP Project\FCAI\FCAI\obj\Debug\net5.0\ref\FCAI.dll
+E:\ASP Project\FCAI\FCAI\obj\Debug\net5.0\FCAI.pdb
+E:\ASP Project\FCAI\FCAI\obj\Debug\net5.0\FCAI.genruntimeconfig.cache
+E:\ASP Project\FCAI\FCAI\obj\Debug\net5.0\Razor\Views\User\Index.cshtml.g.cs
+E:\ASP Project\FCAI\FCAI\obj\Debug\net5.0\Razor\Views\User\Edit.cshtml.g.cs
+E:\ASP Project\FCAI\FCAI\obj\Debug\net5.0\Razor\Views\User\Delete.cshtml.g.cs
+E:\ASP Project\FCAI\FCAI\obj\Debug\net5.0\Razor\Views\Roles\Index.cshtml.g.cs
+E:\ASP Project\FCAI\FCAI\obj\Debug\net5.0\Razor\Views\Roles\create.cshtml.g.cs
+E:\ASP Project\FCAI\FCAI\obj\Debug\net5.0\Razor\Views\Roles\Edit.cshtml.g.cs
+E:\ASP Project\FCAI\FCAI\obj\Debug\net5.0\Razor\Views\Roles\Delete.cshtml.g.cs
+E:\ASP Project\FCAI\FCAI\obj\Debug\net5.0\Razor\Views\Roles\AddOrRemoveUser.cshtml.g.cs

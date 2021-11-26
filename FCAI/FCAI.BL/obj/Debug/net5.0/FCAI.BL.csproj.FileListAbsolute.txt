@@ -1,0 +1,30 @@
+D:\Route\FCAI\FCAI.BL\bin\Debug\net5.0\FCAI.BL.deps.json
+D:\Route\FCAI\FCAI.BL\bin\Debug\net5.0\FCAI.BL.dll
+D:\Route\FCAI\FCAI.BL\bin\Debug\net5.0\ref\FCAI.BL.dll
+D:\Route\FCAI\FCAI.BL\bin\Debug\net5.0\FCAI.BL.pdb
+D:\Route\FCAI\FCAI.BL\bin\Debug\net5.0\FCAI.DAL.dll
+D:\Route\FCAI\FCAI.BL\bin\Debug\net5.0\FCAI.DAL.pdb
+D:\Route\FCAI\FCAI.BL\obj\Debug\net5.0\FCAI.BL.csproj.AssemblyReference.cache
+D:\Route\FCAI\FCAI.BL\obj\Debug\net5.0\FCAI.BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Route\FCAI\FCAI.BL\obj\Debug\net5.0\FCAI.BL.AssemblyInfoInputs.cache
+D:\Route\FCAI\FCAI.BL\obj\Debug\net5.0\FCAI.BL.AssemblyInfo.cs
+D:\Route\FCAI\FCAI.BL\obj\Debug\net5.0\FCAI.BL.csproj.CoreCompileInputs.cache
+D:\Route\FCAI\FCAI.BL\obj\Debug\net5.0\FCAI.BL.dll
+D:\Route\FCAI\FCAI.BL\obj\Debug\net5.0\ref\FCAI.BL.dll
+D:\Route\FCAI\FCAI.BL\obj\Debug\net5.0\FCAI.BL.pdb
+D:\Route\FCAI\FCAI.BL\obj\Debug\net5.0\FCAI.BL.csproj.CopyComplete
+E:\ASP Project\FCAI\FCAI.BL\bin\Debug\net5.0\FCAI.BL.deps.json
+E:\ASP Project\FCAI\FCAI.BL\bin\Debug\net5.0\FCAI.BL.dll
+E:\ASP Project\FCAI\FCAI.BL\bin\Debug\net5.0\ref\FCAI.BL.dll
+E:\ASP Project\FCAI\FCAI.BL\bin\Debug\net5.0\FCAI.BL.pdb
+E:\ASP Project\FCAI\FCAI.BL\bin\Debug\net5.0\FCAI.DAL.dll
+E:\ASP Project\FCAI\FCAI.BL\bin\Debug\net5.0\FCAI.DAL.pdb
+E:\ASP Project\FCAI\FCAI.BL\obj\Debug\net5.0\FCAI.BL.csproj.AssemblyReference.cache
+E:\ASP Project\FCAI\FCAI.BL\obj\Debug\net5.0\FCAI.BL.GeneratedMSBuildEditorConfig.editorconfig
+E:\ASP Project\FCAI\FCAI.BL\obj\Debug\net5.0\FCAI.BL.AssemblyInfoInputs.cache
+E:\ASP Project\FCAI\FCAI.BL\obj\Debug\net5.0\FCAI.BL.AssemblyInfo.cs
+E:\ASP Project\FCAI\FCAI.BL\obj\Debug\net5.0\FCAI.BL.csproj.CoreCompileInputs.cache
+E:\ASP Project\FCAI\FCAI.BL\obj\Debug\net5.0\FCAI.BL.csproj.CopyComplete
+E:\ASP Project\FCAI\FCAI.BL\obj\Debug\net5.0\FCAI.BL.dll
+E:\ASP Project\FCAI\FCAI.BL\obj\Debug\net5.0\ref\FCAI.BL.dll
+E:\ASP Project\FCAI\FCAI.BL\obj\Debug\net5.0\FCAI.BL.pdb
